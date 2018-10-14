@@ -16,12 +16,13 @@ h1 { text-align: center !important;
   color: brown !important;
     font-family: sans-serif !important;
         margin-top: 280px !important;
-    margin-bottom: 30px !important;
+    margin-bottom: 70px !important;
     font-size: 33px !important;
 }
 
 
 .btn {
+    text-align: center !important;
      font-size: 20px !important;
 border-radius: 300px !important;
 font-weight: 700;
